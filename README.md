@@ -15,7 +15,6 @@
   
   <div style="display: inline_block"><br>
   <img align="top" alt="Rafa-Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="Rafa-Csharp" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
