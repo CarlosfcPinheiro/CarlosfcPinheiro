@@ -21,5 +21,3 @@
 </div>
   
   ##
-
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue" alt="SEUUSUARIO"/>
