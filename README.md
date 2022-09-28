@@ -6,7 +6,7 @@
 - 🙂 Pronomes: ele/dele
 
  <div>
-  <a href="https://github.com/carlosfabiocp">
+  <a href="https://github.com/carlosFcPinheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosfabiocp&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfabiocp&layout=compact&langs_count=7&theme=tokyonight"/>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
