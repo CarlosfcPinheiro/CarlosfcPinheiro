@@ -18,7 +18,7 @@
   <img align="top" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg">
-  <img align="center" alt="JS" height="30" width="40" scr="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg">
+  <img align="center" alt="JS" height="30" width="40" scr="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
 </div>
   
   ##
