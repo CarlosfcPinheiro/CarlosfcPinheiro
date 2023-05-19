@@ -3,7 +3,6 @@
 - 📚 Cursando: Desenvolvimento de Sistemas 3/3
 - 🎲 Outras coisas: Faço Artes Digitais (Pixel Art)
 - 📧 E-mail: pg077685@gmail.com
-- 🙂 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/carlosFcPinheiro">
