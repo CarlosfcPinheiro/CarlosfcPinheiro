@@ -1,6 +1,6 @@
 ### Opa, bem-vindo ao meu perfil :)
 
-- 📚 Cursando: Desenvolvimento de Sistemas 3/3
+- 📚 Formação: Téc. em Desenvolvimento de Sistemas
 - 🎲 Outras coisas: Faço Artes Digitais (Pixel Art)
 - 📧 E-mail: carlosfcpinheiro82@gmail.com
 
