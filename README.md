@@ -1,7 +1,7 @@
 ### Opa, bem-vindo ao meu perfil :)
 
 - 📚 Formação: Téc. em Desenvolvimento de Sistemas
-- 📝 Estudando: Sistemas para Internet na UNICAP (1/5)
+- 📝 Estudando: Tecnólogo em Sistemas para Internet na UNICAP (1/5)
 - 🎲 Outras coisas: Faço Artes Digitais (Pixel Art)
 - 📧 E-mail: carlosfcpinheiro82@gmail.com
 
