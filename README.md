@@ -20,7 +20,7 @@
 ## 💻 My tecnologies
   
 <div style="display: inline_block">
-  <p style="text-align: center">
+  <p align="center">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,linux,arch,sqlite" />
    </a>
