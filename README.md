@@ -5,7 +5,7 @@
 ### Hello! Welcome to my GitHub profile :)
 
 - 📚 Academic education: System Development Technician
-- 📝 Studying: Technical Graduate in Internet Systems on UNICAP (1/5)
+- 📝 Studying: Technical Graduate in Internet Systems on UNICAP (2/5)
 - 🎲 Other things: Pixel Artist
 - 📧 E-mail: carlosfcpinheiro82@gmail.com
 
