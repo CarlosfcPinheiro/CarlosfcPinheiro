@@ -9,7 +9,7 @@
 - 🎲 Other things: Pixel Artist
 - 📧 E-mail: carlosfcpinheiro82@gmail.com
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
  <div style="width: 100%;flex-direction: row; display: flex; justify-content: space-between">
   <a href="https://github.com/carlosFcPinheiro" style="text-decoration: none">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosfcPinheiro&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
