@@ -22,7 +22,7 @@
 <div style="display: inline_block">
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mongodb,mysql,java,linux,arch" />
+     <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mongodb,mysql,java,docker,linux,arch" />
    </a>
   </p>
           
@@ -32,6 +32,6 @@
 <div style="display: inline_block">
    <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,c,docker,redis,azure,tailwindcss" />
+      <img src="https://skillicons.dev/icons?i=spring,c,redis,azure,tailwindcss" />
    </a>
 </div>
