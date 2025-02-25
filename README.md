@@ -32,6 +32,6 @@
 <div style="display: inline_block">
    <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,c,redis,azure,tailwindcss,react" />
+      <img src="https://skillicons.dev/icons?i=spring,c,redis,azure,tailwindcss,react,typescript" />
    </a>
 </div>
