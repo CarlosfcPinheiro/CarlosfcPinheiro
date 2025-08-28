@@ -21,7 +21,7 @@
 <div style="display: inline_block">
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,nodejs,mysql,postgres,docker,linux,arch" />
+     <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mysql,postgres,docker,linux,arch" />
    </a>
   </p>
           
