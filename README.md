@@ -5,7 +5,7 @@
 ### Hello! Welcome to my GitHub profile :)
 
 - 🚀 Role: **Full-Stack Developer**
-- 📚 Academic education: Undergraduate Student in Internet Systems
+- 📚 Academic education: Graduate in Internet Systems
 - 🔴 Main stack: Java | Spring Framework
 - 🔬 Interests: Scientific Research and Software Architecture.
 - 🎲 Hobbies: pixel art and music
