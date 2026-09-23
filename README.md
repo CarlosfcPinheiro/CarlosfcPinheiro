@@ -8,7 +8,6 @@
 - 📚 Academic education: Graduate in Internet Systems
 - 🔴 Main stack: Java | Spring Framework
 - 🔬 Interests: Scientific Research and Software Architecture.
-- 🎲 Hobbies: pixel art and music
 - 📧 Contact: [carlosfcpinheiro82@gmail.com](mailto:carlosfcpinheiro82@gmail.com)
 
 ## 📈 GitHub Status
