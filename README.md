@@ -17,7 +17,7 @@
     <img height="180em" src="profile/top-langs.svg" alt="Top Langs" />
 </div>
 
-## 💻 My tecnologies
+## 💻 My Stack
   
 <div style="display: inline_block">
   <p align="center">
